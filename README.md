@@ -86,8 +86,9 @@ Puoi invertire il procedimento facendo tornare il tablet nel suo stato originale
   <summary>📂 Visualizza Allegati Fotografici</summary>
   <br>
   
-[Fronte](https://github.com/user-attachments/assets/82b03eb4-ecfe-4d36-aab3-23a84e28557e) <br>
-[Retro](https://github.com/user-attachments/assets/88685279-a537-460b-826d-d55c291ddac7) <br>
-[Info Sistema operativo](https://github.com/user-attachments/assets/cb8ea2aa-a83c-432e-9b2c-58306e27d2b4)
+[Fronte](https://github.com/user-attachments/assets/64db537f-bc46-418e-882e-c17f2840ab39)<br>
+[Retro](https://github.com/user-attachments/assets/379197c8-02f3-45d4-aad0-f6604dc6da11) <br>
+[Info SO](https://github.com/user-attachments/assets/e0746a80-0084-4130-9b95-f879e4b26636)
+
 
 </details>
